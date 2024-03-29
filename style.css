@@ -1,0 +1,13 @@
+input{
+    accent-color: red;
+    border: 1px solid black;
+    /* font-size: 40px; */
+}
+
+.box{
+    width: 200px;
+    height: 100vh;
+    overflow: hidden;
+    resize: horizontal;
+    background-color: dodgerblue;
+}
